@@ -28,7 +28,6 @@
       <artifactId>bcpkix-jdk15on</artifactId>
       <version>1.51</version>
     </dependency>
-    <!-- XYZ ZZZ -->
     <dependency>
       <groupId>com.madgag.spongycastle</groupId>
       <artifactId>pkix</artifactId>
